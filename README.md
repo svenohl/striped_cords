@@ -1,2 +1,2 @@
 # striped_cords
-Creat your own version
+Creat your own illusion
